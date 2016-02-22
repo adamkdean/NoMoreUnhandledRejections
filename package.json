@@ -1,0 +1,17 @@
+{
+  "name": "nomoreunhandledrejections",
+  "version": "0.1.0",
+  "description": "Tiny Node.js module to shout loudly about unhandledRejections",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamkdean/nomoreunhandledrejections.git"
+  },
+  "keywords": ["promise", "unhandledrejections"],
+  "author": "Adam K Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamkdean/nomoreunhandledrejections/issues"
+  },
+  "homepage": "https://github.com/adamkdean/nomoreunhandledrejections#readme"
+}
